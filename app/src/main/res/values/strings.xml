@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Physics Tracker</string>
+    <string name="replay_activity_name">Replay Scene</string>
+    <string name="action_settings">Set Object Size</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Physics Tracker 0</string>
+    <string name="first_fragment_label">Physics Tracker 1</string>
+    <string name="second_fragment_label">Physics Tracker 2</string>
+    <string name="ambiguous_selection">Difficulty processing selection</string>
+    <string name="dialog_ambiguous_colour">The background has similar colours to your selected object.
+        To fix this, ensure your area is well lit and that your selected object doesn\'t match the
+        colours in the background</string>
+    <string name="none_selected">Please select an object</string>
+    <string name="ok">OK</string>
+    <string name="more_info">Show More</string>
+    <string name="action_replay">Replay</string>
+    <string name="play_btn_desc">Begin Recording</string>
+    <string name="reset_btn_desc">Reset</string>
+</resources>
