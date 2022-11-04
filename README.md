@@ -6,7 +6,7 @@ with assistance from Dr Marie Boden at the University of Queensland.
 
 # Usage
 ## APK Installation
-To run this app on your android device, simply ]download the APK from OneDrive](https://1drv.ms/u/s!AnKhMapPVAQZiskiIFwi9Qqumoaxdw?e=HvJZff)
+To run this app on your android device, simply [download the APK from OneDrive](https://1drv.ms/u/s!AnKhMapPVAQZiskiIFwi9Qqumoaxdw?e=HvJZff)
 Once downloaded, head to your Files -> Downloads on your device and tap the APK.
 
 ## Controls & Features
