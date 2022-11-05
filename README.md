@@ -4,7 +4,8 @@ Found here is an installable APK as well as the source code for the
 Physics Tracker classroom activity developed by Oscar Mahon 
 with assistance from Dr Marie Boden at the University of Queensland
 during final year Thesis studies in ENGG4811.
-Please find the Thesis research [here]()
+
+Please find the Thesis research [here](https://1drv.ms/b/s!AnKhMapPVAQZisktfCI-VtT8Int6hQ?e=Wy4OaN)
 
 # Using the App
 ## Controls & Features
