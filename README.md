@@ -2,12 +2,13 @@
 # Overview
 Found here is an installable APK as well as the source code for the 
 Physics Tracker classroom activity developed by Oscar Mahon 
-with assistance from Dr Marie Boden at the University of Queensland.
+with assistance from Dr Marie Boden at the University of Queensland
+during final year Thesis studies in ENGG4811.
 
 # Usage
 ## APK Installation
 1. You'll need any android device
-2. simply [download the APK from OneDrive](https://1drv.ms/u/s!AnKhMapPVAQZiskjLEIcYGmOXEMFnw?e=q7J602).
+2. Simply [download the APK from OneDrive](https://1drv.ms/u/s!AnKhMapPVAQZiskjLEIcYGmOXEMFnw?e=q7J602).
 3. Head to Files -> Downloads on your device and tap the APK.
    - If required, your device will prompt you for APK install permissions, which you'll need to grant (you can revoke these permissions later if you would like)
 4. The app will automatically install itself
