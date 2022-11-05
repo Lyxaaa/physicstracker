@@ -21,7 +21,12 @@ If this occurs, you'll need to scroll to find the app.
 When opening the app, camera access will be requested, since this operates the apps 
 core functionality.
 Once running, you can tap any object and press the large "Play" button in the bottom right.
-This will immediately begin gathering data - don't worry
+This will immediately begin gathering data, and when you're ready, you can tap the large "Replay" button in the top right.
+
+### Recording View
+- Replay button: Switches to Replay View with the data gathered
+- Settings button: Allows input of object size, useful for displaying bounce heights
+- Play button: Begins recording data.
 
 ## Running the Code
 All required external packages are included in this repository.
