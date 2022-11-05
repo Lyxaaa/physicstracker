@@ -37,8 +37,8 @@ If this occurs, you'll need to scroll to find the app, as launching this "Replay
 All required external packages are included in this repository.
 To get the code up and running, please;
 1. Install Android Studio and follow their detailed setup guide
-   1. Make sure to install the appropriate Android debugging utilities for your device
+   - Make sure to install the appropriate Android debugging utilities for your device
 2. Open this project in Android Studio
 3. Plug in a compatible Android device
 4. Press 'Run' in the top-right hot bar
-   1. If the option is not pre-populated with the 'app' activity, select the "Edit Configurations" dropdown on the top hot bar -> Select the Module 'JavaObjDetection.app.main' -> Apply and the green Run button will appear
+   - If the option is not pre-populated with the 'app' activity, select the "Edit Configurations" dropdown on the top hot bar -> Select the Module 'JavaObjDetection.app.main' -> Apply and the green Run button will appear
